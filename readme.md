@@ -11,7 +11,7 @@ LvYaf
 
 ## 框架介绍
 在鸟哥的Yaf框架基础上，封装一套符合自己个人开发习惯的一套API开发框架
-该框架由4层架构成，Controller、Model、Service，Validate，优点如下：
+该框架由4层构成，Controller、Model、Service，Validate，优点如下：
 
 1、框架层次分明，结构清晰、使用简洁（开箱即用）、功能强大。
 
