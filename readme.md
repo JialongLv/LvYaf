@@ -41,7 +41,7 @@ phpredis 介绍以及安装：https://github.com/phpredis/phpredis
 ———————————————— 
 |--- application              //业务代码 
      |----- controller    //控制器目录
-                |------ User.php    //User控制器
+                |------ Index.php    //Index控制器
 	 |----- library           //公共类库目录
          |----- Assert        //验证器目录
          |----- Log           //写日志目录
