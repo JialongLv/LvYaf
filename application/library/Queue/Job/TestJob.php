@@ -9,12 +9,12 @@ class TestJob
 
     public function __construct($data)
     {
-        $this->ao = $data->ao;
-        $this->bb = $data->bb;
+        $this->hello = $data->hello;
+        $this->world = $data->world;
     }
 
     public function handle()
     {
-        echo $this->ao . ' ' . $this->bb . now().PHP_EOL;
+        echo $this->hello . ' ' . $this->world . now().PHP_EOL;
     }
 }
