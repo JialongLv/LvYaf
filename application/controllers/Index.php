@@ -34,7 +34,7 @@ class IndexController extends Yaf_Controller_Abstract
 
         //普通队列,发邮件，发短信。 or 延时队列，30分钟取消订单等。
         $task = new \Queue\Task();
-        $task->task('TestJob', ['ao' => 'hello', 'bb' => 'world'], 15);
+        $task->task('TestJob', ['hello' => 'hello', 'world' => 'world'], 15);
 
         return $this->returnJson(['data' => 'Hello Word']);
     }
