@@ -34,7 +34,7 @@ yaf 介绍以及安装： https://github.com/laruence/yaf
 
 SeasLog 介绍以及安装： https://github.com/SeasX/SeasLog
 
-SeasLog 介绍以及安装：https://github.com/phpredis/phpredis
+phpredis 介绍以及安装：https://github.com/phpredis/phpredis
 
 ## 代码结构
 ```php
