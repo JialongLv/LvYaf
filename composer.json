@@ -1,0 +1,19 @@
+{
+    "name": "ljl/lv-yaf",
+    "authors": [
+        {
+            "name": "jialong",
+            "email": "872044996@qq.com"
+        }
+    ],
+    "require": {
+        "webmozart/assert": "^1.9",
+        "nette/mail": "^3.1"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    }
+}

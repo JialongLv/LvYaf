@@ -1,0 +1,64 @@
+2020-06-27 02:27:21 | ERROR | 127.0.0.1 | /api/hello/hello | GET | The employee ID must be an integer. Got: string
+2020-06-27 02:27:34 | ERROR | 127.0.0.1 | /api/hello/hello | GET | The employee ID must be an integer. Got: string
+2020-06-27 02:34:38 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-27 02:53:03 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-27 03:04:41 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Nette\Mail\Message' not found
+2020-06-27 03:04:52 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-27 03:07:56 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'HelloValidate' not found
+2020-06-27 03:08:31 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'validate\HelloValidate' not found
+2020-06-27 03:18:57 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-27 03:18:57 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-27 03:20:21 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:20:45 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:21:19 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:21:54 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:22:28 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:23:22 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:23:50 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:24:23 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:24:24 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:24:24 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:24:25 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:24:25 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:25:23 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:25:53 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:25:53 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:25:54 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:26:07 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:26:08 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:27:39 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:27:51 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:28:02 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 03:28:08 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 04:21:13 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 04:23:25 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Assert' not found
+2020-06-27 04:23:40 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 04:25:16 | ERROR | 127.0.0.1 | /api/hello/hello | GET | 123431
+2020-06-27 04:25:29 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-27 04:25:57 | ERROR | 127.0.0.1 | /api/hello/hello | GET | fvwtvwrtv
+2020-06-27 04:36:15 | ERROR | 127.0.0.1 | /api/hello/hello | GET | 请输入整数. Got: string
+2020-06-27 04:41:39 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Assert' not found
+2020-06-27 04:43:28 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Expected an integer. Got: string
+2020-06-27 04:44:00 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Expected an integer. Got: string
+2020-06-27 04:44:01 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Expected an integer. Got: string
+2020-06-27 04:44:01 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Expected an integer. Got: string
+2020-06-27 04:44:02 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Expected an integer. Got: string
+2020-06-27 04:44:02 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Expected an integer. Got: string
+2020-06-27 04:44:03 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Expected an integer. Got: string
+2020-06-27 04:44:03 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Expected an integer. Got: string
+2020-06-27 05:20:36 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:4 - msg:Class 'BaseController' not found
+2020-06-27 05:21:31 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:4 - msg:Class 'BaseController' not found
+2020-06-27 05:22:21 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:4 - msg:Class 'BaseController' not found
+2020-06-27 05:22:35 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:4 - msg:Class 'BaseController' not found
+2020-06-27 05:26:38 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file11---msg:Call to undefined method HelloController::returnJson()
+2020-06-27 05:28:11 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Uncaught Yaf_Exception_LoadFailed_Controller: Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory in D:\laragon\www\LvYaf\public\index.php:7
+Stack trace:
+#0 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#1 {main}
+  thrown
+2020-06-27 05:28:12 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Uncaught Yaf_Exception_LoadFailed_Controller: Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory in D:\laragon\www\LvYaf\public\index.php:7
+Stack trace:
+#0 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#1 {main}
+  thrown
+2020-06-27 05:28:50 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory

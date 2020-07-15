@@ -1,0 +1,97 @@
+2020-07-10 04:42:29 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file15---msg:Class 'Validate\Api\HelloValidate' not found
+2020-07-10 04:43:36 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file15---msg:Class 'Validate\Api\HelloValidate' not found
+2020-07-10 04:44:56 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file15---msg:Class 'Validates\Api\HelloValidate' not found
+2020-07-10 04:46:07 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file15---msg:Class 'Validate\Api\HelloValidate' not found
+2020-07-10 04:46:08 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file15---msg:Class 'Validate\Api\HelloValidate' not found
+2020-07-10 04:46:09 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file15---msg:Class 'Validate\Api\HelloValidate' not found
+2020-07-10 04:46:35 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file15---msg:Class 'Validate\Api\HelloValidate' not found
+2020-07-10 04:47:32 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file15---msg:Class 'Validates\Api\HelloValidate' not found
+2020-07-10 04:47:34 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file15---msg:Class 'Validates\Api\HelloValidate' not found
+2020-07-10 04:47:44 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\validates\BaseValidate.php - line:8 - msg:Class 'Validates\Yaf_Request_Http' not found
+2020-07-10 04:51:01 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file14---msg:Class 'Validates\Api\HelloValidate' not found
+2020-07-10 04:51:01 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file14---msg:Class 'Validates\Api\HelloValidate' not found
+2020-07-10 04:51:02 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file14---msg:Class 'Validates\Api\HelloValidate' not found
+2020-07-10 04:53:55 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\validates\BaseValidate.php - line:7 - msg:Class 'Validates\Yaf_Request_Http' not found
+2020-07-10 04:55:13 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\validates\BaseValidate.php - line:7 - msg:Class 'Validates\Yaf_Request_Http' not found
+2020-07-10 05:01:23 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\validates\BaseValidate.php - line:9 - msg:Class 'Validates\Yaf_Request_Http' not found
+2020-07-10 05:01:23 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\validates\BaseValidate.php - line:9 - msg:Class 'Validates\Yaf_Request_Http' not found
+2020-07-10 05:18:21 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\Bootstrap.php - line:51 - msg:Uncaught Error: Call to a member function getParam() on array in D:\laragon\www\LvYaf\application\Bootstrap.php:51
+Stack trace:
+#0 [internal function]: Bootstrap->_initCommon(Object(Yaf_Dispatcher))
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->bootstrap()
+#2 {main}
+  thrown
+2020-07-10 05:18:21 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\Bootstrap.php - line:51 - msg:Uncaught Error: Call to a member function getParam() on array in D:\laragon\www\LvYaf\application\Bootstrap.php:51
+Stack trace:
+#0 [internal function]: Bootstrap->_initCommon(Object(Yaf_Dispatcher))
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->bootstrap()
+#2 {main}
+  thrown
+2020-07-10 05:20:55 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\Bootstrap.php - line:47 - msg:Uncaught ArgumentCountError: Too few arguments to function Bootstrap::_initCommon(), 1 passed and exactly 2 expected in D:\laragon\www\LvYaf\application\Bootstrap.php:47
+Stack trace:
+#0 [internal function]: Bootstrap->_initCommon(Object(Yaf_Dispatcher))
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->bootstrap()
+#2 {main}
+  thrown
+2020-07-10 05:20:55 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\Bootstrap.php - line:47 - msg:Uncaught ArgumentCountError: Too few arguments to function Bootstrap::_initCommon(), 1 passed and exactly 2 expected in D:\laragon\www\LvYaf\application\Bootstrap.php:47
+Stack trace:
+#0 [internal function]: Bootstrap->_initCommon(Object(Yaf_Dispatcher))
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->bootstrap()
+#2 {main}
+  thrown
+2020-07-10 05:21:12 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\Bootstrap.php - line:47 - msg:Uncaught TypeError: Argument 1 passed to Bootstrap::_initCommon() must be an instance of Yaf_Request_Abstract, instance of Yaf_Dispatcher given in D:\laragon\www\LvYaf\application\Bootstrap.php:47
+Stack trace:
+#0 [internal function]: Bootstrap->_initCommon(Object(Yaf_Dispatcher))
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->bootstrap()
+#2 {main}
+  thrown
+2020-07-10 05:21:13 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\Bootstrap.php - line:47 - msg:Uncaught TypeError: Argument 1 passed to Bootstrap::_initCommon() must be an instance of Yaf_Request_Abstract, instance of Yaf_Dispatcher given in D:\laragon\www\LvYaf\application\Bootstrap.php:47
+Stack trace:
+#0 [internal function]: Bootstrap->_initCommon(Object(Yaf_Dispatcher))
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->bootstrap()
+#2 {main}
+  thrown
+2020-07-10 05:28:28 | ERROR | 127.0.0.1 | /api/hello/hello/a/111 | GET | file13---msg:Call to a member function getParam() on array
+2020-07-10 05:28:28 | ERROR | 127.0.0.1 | /favicon.ico | GET | file13---msg:Call to a member function getParam() on array
+2020-07-10 05:29:02 | ERROR | 127.0.0.1 | /api/hello/hello/a/111 | GET | file13---msg:Call to a member function getParams() on array
+2020-07-10 05:29:02 | ERROR | 127.0.0.1 | /favicon.ico | GET | file13---msg:Call to a member function getParams() on array
+2020-07-10 05:39:09 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\Bootstrap.php - line:52 - msg:Uncaught Error: Call to a member function getParam() on array in D:\laragon\www\LvYaf\application\Bootstrap.php:52
+Stack trace:
+#0 [internal function]: Bootstrap->_initCommon(Object(Yaf_Dispatcher))
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->bootstrap()
+#2 {main}
+  thrown
+2020-07-10 05:39:09 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\Bootstrap.php - line:52 - msg:Uncaught Error: Call to a member function getParam() on array in D:\laragon\www\LvYaf\application\Bootstrap.php:52
+Stack trace:
+#0 [internal function]: Bootstrap->_initCommon(Object(Yaf_Dispatcher))
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->bootstrap()
+#2 {main}
+  thrown
+2020-07-10 05:43:07 | ERROR | 127.0.0.1 | /api/hello/hello/a/111 | GET | file12---msg:Call to undefined method SamplePlugin::getRequest()
+2020-07-10 05:43:08 | ERROR | 127.0.0.1 | /favicon.ico | GET | file12---msg:Call to undefined method SamplePlugin::getRequest()
+2020-07-10 05:47:40 | CRITICAL | Error - type:64 - file:D:\laragon\www\LvYaf\application\validates\BaseValidate.php - line:11 - msg:Constant expression contains invalid operations
+2020-07-10 05:47:40 | CRITICAL | Error - type:64 - file:D:\laragon\www\LvYaf\application\validates\BaseValidate.php - line:11 - msg:Constant expression contains invalid operations
+2020-07-10 05:50:38 | CRITICAL | Error - type:64 - file:D:\laragon\www\LvYaf\application\validates\BaseValidate.php - line:11 - msg:Constant expression contains invalid operations
+2020-07-10 05:50:38 | CRITICAL | Error - type:64 - file:D:\laragon\www\LvYaf\application\validates\BaseValidate.php - line:11 - msg:Constant expression contains invalid operations
+2020-07-10 05:54:13 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file13---msg:Using $this when not in object context
+2020-07-10 05:54:24 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file13---msg:Class 'Validates\Api\Yaf_Registry' not found
+2020-07-10 08:34:52 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file12---msg:Call to undefined method SamplePlugin::getRequest()
+2020-07-10 08:34:52 | ERROR | 127.0.0.1 | /favicon.ico | GET | file12---msg:Call to undefined method SamplePlugin::getRequest()
+2020-07-10 08:35:25 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file12---msg:Call to a member function getQuery() on array
+2020-07-10 08:35:25 | ERROR | 127.0.0.1 | /favicon.ico | GET | file12---msg:Call to a member function getQuery() on array
+2020-07-10 08:37:33 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file14---msg:Call to a member function getParam() on array
+2020-07-10 08:37:33 | ERROR | 127.0.0.1 | /favicon.ico | GET | file14---msg:Call to a member function getParam() on array
+2020-07-10 08:50:10 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file7---msg:Class 'HelloValidate' not found
+2020-07-10 08:50:35 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file7---msg:Class 'HelloValidate' not found
+2020-07-10 08:50:37 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file7---msg:Class 'HelloValidate' not found
+2020-07-10 08:52:08 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\validates\Api\HelloValidate.php - line:5 - msg:Class 'Validates\Api\BaseValidate' not found
+2020-07-10 09:08:47 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file10---msg:Class 'Library\Validates\Api\HelloValidate' not found
+2020-07-10 09:13:08 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file10---msg:Using $this when not in object context
+2020-07-10 09:14:11 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file8---msg:Too few arguments to function Validates\Api\HelloValidate::hello(), 0 passed in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php on line 10 and exactly 1 expected
+2020-07-10 09:15:16 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file8---msg:Too few arguments to function Validates\Api\HelloValidate::hello(), 0 passed in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php on line 10 and exactly 1 expected
+2020-07-10 09:15:25 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file8---msg:Too few arguments to function Validates\Api\HelloValidate::hello(), 0 passed in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php on line 10 and exactly 1 expected
+2020-07-10 09:15:25 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file8---msg:Too few arguments to function Validates\Api\HelloValidate::hello(), 0 passed in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php on line 10 and exactly 1 expected
+2020-07-10 09:18:06 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file17---msg:Using $this when not in object context
+2020-07-10 09:23:05 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file19---msg:Undefined class constant 'http'
+2020-07-10 09:27:13 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file8---msg:Too few arguments to function Validates\BaseValidate::getRequest(), 0 passed in D:\laragon\www\LvYaf\application\library\validates\Api\HelloValidate.php on line 11 and exactly 1 expected
+2020-07-10 09:27:14 | ERROR | 127.0.0.1 | /api/hello/hello/a/111?aa=111 | GET | file8---msg:Too few arguments to function Validates\BaseValidate::getRequest(), 0 passed in D:\laragon\www\LvYaf\application\library\validates\Api\HelloValidate.php on line 11 and exactly 1 expected

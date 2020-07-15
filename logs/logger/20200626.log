@@ -1,0 +1,92 @@
+2020-06-26 12:49:11 | INFO | 10700 | 5ef5eec718a1e | 1593175751.130 | 127.0.0.1 | /api/hello/hello | GET | test
+2020-06-26 12:49:11 | INFO | 10700 | 5ef5eec72b342 | 1593175751.201 | 127.0.0.1 | /favicon.ico | GET | test
+2020-06-26 12:52:29 | INFO | 127.0.0.1 | /api/hello/hello | GET | test
+2020-06-26 12:52:29 | INFO | 127.0.0.1 | /favicon.ico | GET | test
+2020-06-26 16:23:19 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'HelloValidate' not found
+2020-06-26 16:29:11 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:34:05 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'validate\Yaf_Loader' not found
+2020-06-26 16:34:05 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'validate\Yaf_Loader' not found
+2020-06-26 16:34:42 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-26 16:38:00 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'validate\HelloValidate' not found
+2020-06-26 16:39:03 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:39:33 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:39:34 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:43:29 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:43:38 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:43:39 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:44:23 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:44:24 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:44:25 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:44:25 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:44:26 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:45:48 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:45:50 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:45:51 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:45:51 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:45:52 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:45:52 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:46:17 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:46:18 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:46:19 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:48:21 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-06-26 16:51:44 | ERROR | 127.0.0.1 | /api/hello/hello | GET | The employee ID must be an integer. Got: string
+2020-06-26 16:51:51 | ERROR | 127.0.0.1 | /api/hello/hello | GET | The employee ID must be an integer. Got: string
+2020-06-26 16:51:52 | ERROR | 127.0.0.1 | /api/hello/hello | GET | The employee ID must be an integer. Got: string
+2020-06-26 16:51:52 | ERROR | 127.0.0.1 | /api/hello/hello | GET | The employee ID must be an integer. Got: string
+2020-06-26 16:51:53 | ERROR | 127.0.0.1 | /api/hello/hello | GET | The employee ID must be an integer. Got: string
+2020-06-26 16:51:53 | ERROR | 127.0.0.1 | /api/hello/hello | GET | The employee ID must be an integer. Got: string
+2020-06-26 16:58:15 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'HelloValidate' not found
+2020-06-26 17:00:00 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Volatile\HellHelloValidate' not found
+2020-06-26 17:00:48 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\HelloValidate' not found
+2020-06-26 17:01:24 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\HelloValidate' not found
+2020-06-26 17:01:40 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-26 17:01:58 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-26 17:02:48 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-26 17:03:50 | ERROR | 127.0.0.1 | /api/hello/hello | GET | The employee ID must be an integer. Got: string
+2020-06-26 17:04:41 | ERROR | 127.0.0.1 | /api/hello/hello | GET | The employee ID must be an integer. Got: string
+2020-06-26 17:04:42 | ERROR | 127.0.0.1 | /api/hello/hello | GET | The employee ID must be an integer. Got: string
+2020-06-26 17:06:08 | ERROR | 127.0.0.1 | /api/hello/hello | GET | The employee ID must be an integer. Got: string
+2020-06-26 17:06:28 | ERROR | 127.0.0.1 | /api/hello/hello | GET | The employee ID must be an integer. Got: string
+2020-06-26 17:16:42 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:9 - msg:Class 'Yaf\Controller_Abstract' not found
+2020-06-26 17:17:02 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-26 17:26:48 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\HelloValidate' not found
+2020-06-26 17:27:16 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\HelloValidate' not found
+2020-06-26 17:27:52 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'HelloValidate' not found
+2020-06-26 17:30:31 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 17:32:45 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 17:32:46 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 17:33:17 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 17:33:17 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 17:33:40 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Webmozart\Assert\Assert' not found
+2020-06-26 17:43:51 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 17:45:30 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 17:46:02 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 17:46:03 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:10:04 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:10:05 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:10:06 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:10:06 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:10:50 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:11:10 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:11:29 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:11:50 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:12:17 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:12:17 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:12:18 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:12:18 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:12:19 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:12:19 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:12:20 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:12:20 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:12:21 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:12:22 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:12:22 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:12:23 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:12:52 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:14:13 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:15:28 | ERROR | 127.0.0.1 | /api/hello/hello | GET | The employee ID must be an integer. Got: string
+2020-06-26 18:17:36 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:23:07 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:23:08 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:23:08 | ERROR | 127.0.0.1 | /api/hello/hello | GET | Class 'Validate\Yaf_Loader' not found
+2020-06-26 18:23:29 | ERROR | 127.0.0.1 | /api/hello/hello | GET | The employee ID must be an integer. Got: string

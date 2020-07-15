@@ -1,0 +1,20 @@
+2020-07-11 07:09:47 | ERROR |  |  |  | 
+2020-07-11 07:12:55 | ERROR |  |  |  | 
+2020-07-11 07:13:18 | ERROR | 
+2020-07-11 12:16:08 | ERROR | 127.0.0.1 | /api/hello/hello/a/333 | GET | file23---msg:Class 'Init\Init' not found
+2020-07-11 12:28:57 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:12 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:12
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(48): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(14): Worker->queueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(9): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-11 12:30:44 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:12 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:12
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(48): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(14): Worker->queueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(9): Yaf_Application->execute('main')
+#4 {main}
+  thrown

@@ -1,0 +1,483 @@
+2020-07-12 02:23:07 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:14 - msg:Uncaught Error: Call to undefined function now() in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:14
+Stack trace:
+#0 [internal function]: main()
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(9): Yaf_Application->execute('main')
+#2 {main}
+  thrown
+2020-07-12 02:30:03 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:12 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:12
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(71): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(16): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(9): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 02:31:18 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:12 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:12
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(71): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(16): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(9): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 02:32:13 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:12 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:12
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(71): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(16): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(9): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 02:34:02 | ERROR | 
+2020-07-12 02:34:02 | ERROR | 
+2020-07-12 02:34:02 | ERROR | 
+2020-07-12 02:34:02 | ERROR | 
+2020-07-12 02:34:02 | ERROR | 
+2020-07-12 02:34:02 | ERROR | 
+2020-07-12 02:34:02 | ERROR | 
+2020-07-12 02:45:13 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(71): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(16): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(9): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 02:47:35 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(71): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(16): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(9): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:00:46 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(82): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(18): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(9): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:01:42 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(82): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(18): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(9): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:02:21 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(82): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(18): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(9): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:03:13 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(83): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:03:13 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:22 - msg:Uncaught ArgumentCountError: Too few arguments to function func_error_handler(), 0 passed and exactly 1 expected in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:22
+Stack trace:
+#0 [internal function]: func_error_handler()
+#1 {main}
+  thrown
+2020-07-12 03:03:56 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(89): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:03:56 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:26 - msg:Uncaught Error: Call to a member function getMessage() on integer in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:26
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(33): func_error_handler(8, 'Undefined varia...', 'D:\\laragon\\www\\...', 33, Array)
+#1 [internal function]: func_error_handler123()
+#2 {main}
+  thrown
+2020-07-12 03:04:13 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(88): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:04:48 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(88): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:06:12 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(87): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:06:12 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:31 - msg:Uncaught Error: Wrong parameters for ErrorException([string $message [, long $code, [ long $severity, [ string $filename, [ long $lineno  [, Throwable $previous = NULL]]]]]]) in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:31
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(31): ErrorException->__construct(Array)
+#1 [internal function]: func_error_handler123()
+#2 {main}
+  thrown
+2020-07-12 03:07:01 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(88): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:07:53 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:32 - msg:Uncaught ErrorException in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:32
+Stack trace:
+#0 [internal function]: func_error_handler123()
+#1 {main}
+  thrown
+2020-07-12 03:27:48 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(88): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:28:06 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(88): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:28:26 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(90): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:29:02 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(88): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:29:02 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:32 - msg:Uncaught ErrorException: Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(88): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:32
+Stack trace:
+#0 [internal function]: func_error_handler123()
+#1 {main}
+  thrown
+2020-07-12 03:30:56 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(89): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:31:14 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(89): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:31:37 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(89): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:32:07 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(90): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:32:21 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(90): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:33:44 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(89): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:33:44 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:33 - msg:Uncaught ErrorException: Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(89): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:33
+Stack trace:
+#0 [internal function]: func_error_handler123()
+#1 {main}
+  thrown
+2020-07-12 03:36:01 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(89): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:39:40 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(89): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:39:40 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:22 - msg:Uncaught ArgumentCountError: Too few arguments to function func_error_handler(), 0 passed and exactly 1 expected in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:22
+Stack trace:
+#0 [internal function]: func_error_handler()
+#1 {main}
+  thrown
+2020-07-12 03:40:06 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(89): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:40:06 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:22 - msg:Uncaught ArgumentCountError: Too few arguments to function func_error_handler(), 0 passed and exactly 1 expected in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:22
+Stack trace:
+#0 [internal function]: func_error_handler()
+#1 {main}
+  thrown
+2020-07-12 03:40:43 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(89): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:40:43 | ERROR | afdswfdrwearerq
+2020-07-12 03:41:17 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(89): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:41:17 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:26 - msg:Uncaught Exception: Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(89): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:26
+Stack trace:
+#0 [internal function]: func_error_handler()
+#1 {main}
+  thrown
+2020-07-12 03:41:36 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(89): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:41:36 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:26 - msg:Uncaught Exception: Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(89): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:26
+Stack trace:
+#0 [internal function]: func_error_handler()
+#1 {main}
+  thrown
+2020-07-12 03:44:13 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(88): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:44:13 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:22 - msg:Uncaught ArgumentCountError: Too few arguments to function func_error_handler(), 0 passed and exactly 1 expected in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:22
+Stack trace:
+#0 [internal function]: func_error_handler()
+#1 {main}
+  thrown
+2020-07-12 03:44:48 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:22 - msg:Uncaught ArgumentCountError: Too few arguments to function func_error_handler(), 0 passed and exactly 1 expected in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:22
+Stack trace:
+#0 [internal function]: func_error_handler()
+#1 {main}
+  thrown
+2020-07-12 03:45:28 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:26 - msg:Uncaught Exception in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:26
+Stack trace:
+#0 [internal function]: func_error_handler()
+#1 {main}
+  thrown
+2020-07-12 03:45:41 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(88): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:45:41 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:26 - msg:Uncaught Exception: Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(88): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:26
+Stack trace:
+#0 [internal function]: func_error_handler()
+#1 {main}
+  thrown
+2020-07-12 03:45:51 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(88): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:46:19 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(88): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:49:53 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(90): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:49:53 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:25 - msg:Uncaught Error: Wrong parameters for Exception([string $message [, long $code [, Throwable $previous = NULL]]]) in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:25
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(25): Exception->__construct(Array, 100)
+#1 [internal function]: func_error_handler()
+#2 {main}
+  thrown
+2020-07-12 03:50:16 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(90): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:50:16 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:25 - msg:Uncaught Exception: Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(90): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:25
+Stack trace:
+#0 [internal function]: func_error_handler()
+#1 {main}
+  thrown
+2020-07-12 03:51:09 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(90): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:51:09 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Worker.php - line:25 - msg:Uncaught Exception: Something went wrong.Time for lunch! in D:\laragon\www\LvYaf\application\library\Queue\Worker.php:25
+Stack trace:
+#0 [internal function]: func_error_handler()
+#1 {main}
+  thrown
+2020-07-12 03:56:06 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:14 - msg:Uncaught Error: Cannot use object of type stdClass as array in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:14
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(90): Queue\Job\TestJob->__construct(Object(stdClass))
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:58:48 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php - line:22 - msg:Uncaught Error: Class 'Yaf\Exception' not found in D:\laragon\www\LvYaf\application\library\Queue\Job\TestJob.php:22
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(91): Queue\Job\TestJob->handle()
+#1 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(19): Worker->delayQueueHandler()
+#2 [internal function]: main()
+#3 D:\laragon\www\LvYaf\application\library\Queue\Worker.php(10): Yaf_Application->execute('main')
+#4 {main}
+  thrown
+2020-07-12 03:59:26 | ERROR | Something went wrong.Time for lunch!
+2020-07-12 03:59:26 | ERROR | Something went wrong.Time for lunch!
+2020-07-12 03:59:26 | ERROR | Something went wrong.Time for lunch!
+2020-07-12 04:01:23 | ERROR | Something went wrong.Time for lunch!
+2020-07-12 04:01:23 | ERROR | Something went wrong.Time for lunch!
+2020-07-12 04:01:23 | ERROR | Something went wrong.Time for lunch!
+2020-07-12 04:01:23 | ERROR | Something went wrong.Time for lunch!
+2020-07-12 04:01:23 | ERROR | Something went wrong.Time for lunch!
+2020-07-12 04:02:23 | ERROR | 
+2020-07-12 04:02:23 | ERROR | 
+2020-07-12 04:03:23 | ERROR | 
+2020-07-12 04:03:23 | ERROR | 
+2020-07-12 04:03:23 | ERROR | 
+2020-07-12 04:03:23 | ERROR | 
+2020-07-12 04:03:23 | ERROR | 
+2020-07-12 04:03:23 | ERROR | 
+2020-07-12 04:03:23 | ERROR | 
+2020-07-12 04:06:16 | ERROR | 
+2020-07-12 04:06:16 | ERROR | 
+2020-07-12 04:06:16 | ERROR | 
+2020-07-12 04:06:16 | ERROR | 
+2020-07-12 04:06:16 | ERROR | 
+2020-07-12 04:06:16 | ERROR | 
+2020-07-12 04:06:16 | ERROR | 
+2020-07-12 04:06:16 | ERROR | 
+2020-07-12 04:06:16 | ERROR | 
+2020-07-12 04:06:16 | ERROR | 

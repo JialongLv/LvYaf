@@ -1,0 +1,139 @@
+2020-07-09 23:04:55 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:2 - msg:Uncaught Error: Non-static method Yaf_Loader::registerNamespace() cannot be called statically in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php:2
+Stack trace:
+#0 [internal function]: unknown()
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#2 {main}
+  thrown
+2020-07-09 23:04:55 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:06:07 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:12 - msg:Uncaught Error: Class 'Webmozart\Assert\Assert' not found in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php:12
+Stack trace:
+#0 [internal function]: HelloController->helloAction()
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#2 {main}
+  thrown
+2020-07-09 23:06:07 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:06:59 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:12 - msg:Uncaught Error: Class 'Webmozart\Assert\Assert' not found in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php:12
+Stack trace:
+#0 [internal function]: HelloController->helloAction()
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#2 {main}
+  thrown
+2020-07-09 23:06:59 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:07:05 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:12 - msg:Uncaught Error: Class 'Webmozart\Assert\Assert' not found in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php:12
+Stack trace:
+#0 [internal function]: HelloController->helloAction()
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#2 {main}
+  thrown
+2020-07-09 23:07:05 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:07:10 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:12 - msg:Uncaught Error: Class 'Webmozart\Assert\Assert' not found in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php:12
+Stack trace:
+#0 [internal function]: HelloController->helloAction()
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#2 {main}
+  thrown
+2020-07-09 23:07:10 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:07:16 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:12 - msg:Uncaught Error: Class 'Webmozart\Assert\Assert' not found in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php:12
+Stack trace:
+#0 [internal function]: HelloController->helloAction()
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#2 {main}
+  thrown
+2020-07-09 23:07:16 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:07:22 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:12 - msg:Uncaught Error: Class 'Webmozart\Assert\Assert' not found in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php:12
+Stack trace:
+#0 [internal function]: HelloController->helloAction()
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#2 {main}
+  thrown
+2020-07-09 23:07:22 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:08:22 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:12 - msg:Uncaught Error: Class 'Webmozart\Assert\Assert' not found in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php:12
+Stack trace:
+#0 [internal function]: HelloController->helloAction()
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#2 {main}
+  thrown
+2020-07-09 23:08:22 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:08:33 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:12 - msg:Uncaught Error: Class 'Webmozart\Assert\Assert' not found in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php:12
+Stack trace:
+#0 [internal function]: HelloController->helloAction()
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#2 {main}
+  thrown
+2020-07-09 23:08:33 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:08:41 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:12 - msg:Uncaught Error: Class 'Webmozart\Assert\Assert' not found in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php:12
+Stack trace:
+#0 [internal function]: HelloController->helloAction()
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#2 {main}
+  thrown
+2020-07-09 23:08:41 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:10:13 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:12 - msg:Uncaught Error: Class 'Assert\Assert' not found in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php:12
+Stack trace:
+#0 [internal function]: HelloController->helloAction()
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#2 {main}
+  thrown
+2020-07-09 23:10:13 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:11:02 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\assert\Assert.php - line:2021 - msg:Uncaught Exception: fvwtvwrtv in D:\laragon\www\LvYaf\application\library\assert\Assert.php:2021
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\assert\Assert.php(83): Assert\Assert::reportInvalidArgument('fvwtvwrtv')
+#1 D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php(12): Assert\Assert::integer('dddd', 'fvwtvwrtv')
+#2 [internal function]: HelloController->helloAction()
+#3 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#4 {main}
+  thrown
+2020-07-09 23:11:02 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:11:20 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\assert\Assert.php - line:2021 - msg:Uncaught Exception: 11111 in D:\laragon\www\LvYaf\application\library\assert\Assert.php:2021
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\assert\Assert.php(83): Assert\Assert::reportInvalidArgument('11111')
+#1 D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php(12): Assert\Assert::integer('dddd', '11111')
+#2 [internal function]: HelloController->helloAction()
+#3 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#4 {main}
+  thrown
+2020-07-09 23:11:20 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:12:36 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php - line:12 - msg:Uncaught Error: Class 'Assert' not found in D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php:12
+Stack trace:
+#0 [internal function]: HelloController->helloAction()
+#1 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#2 {main}
+  thrown
+2020-07-09 23:12:36 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:12:48 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\assert\Assert.php - line:2021 - msg:Uncaught Exception: 11111 in D:\laragon\www\LvYaf\application\library\assert\Assert.php:2021
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\assert\Assert.php(83): Assert\Assert::reportInvalidArgument('11111')
+#1 D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php(12): Assert\Assert::integer('dddd', '11111')
+#2 [internal function]: HelloController->helloAction()
+#3 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#4 {main}
+  thrown
+2020-07-09 23:12:48 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:15:00 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\assert\Assert.php - line:2021 - msg:Uncaught Exception: 11111 in D:\laragon\www\LvYaf\application\library\assert\Assert.php:2021
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\assert\Assert.php(83): Assert\Assert::reportInvalidArgument('11111')
+#1 D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php(12): Assert\Assert::integer('dddd', '11111')
+#2 [internal function]: HelloController->helloAction()
+#3 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#4 {main}
+  thrown
+2020-07-09 23:15:00 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:15:53 | CRITICAL | Error - type:1 - file:D:\laragon\www\LvYaf\application\library\assert\Assert.php - line:2021 - msg:Uncaught Exception: 请输入整数 in D:\laragon\www\LvYaf\application\library\assert\Assert.php:2021
+Stack trace:
+#0 D:\laragon\www\LvYaf\application\library\assert\Assert.php(83): Assert\Assert::reportInvalidArgument('\xE8\xAF\xB7\xE8\xBE\x93\xE5\x85\xA5\xE6\x95\xB4\xE6\x95\xB0')
+#1 D:\laragon\www\LvYaf\application\modules\Api\controllers\Hello.php(12): Assert\Assert::integer('dddd')
+#2 [internal function]: HelloController->helloAction()
+#3 D:\laragon\www\LvYaf\public\index.php(7): Yaf_Application->run()
+#4 {main}
+  thrown
+2020-07-09 23:15:53 | CRITICAL | Error - type:4096 - file:D:\laragon\www\LvYaf\public\index.php - line:7 - msg:Yaf_Application::run(): Failed opening controller script D:\laragon\www\LvYaf\public/../application\controllers\Favicon.ico.php: No such file or directory
+2020-07-09 23:17:08 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file12---msg:Class 'Webmozart\Assert\Assert' not found
+2020-07-09 23:19:06 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file2042---msg:Expected an integer. Got: string
+2020-07-09 23:21:28 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file2---msg:Non-static method Yaf_Loader::registerNamespace() cannot be called statically
+2020-07-09 23:36:58 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file6---msg:Class 'Validate\Api\Yaf_Loader' not found
+2020-07-09 23:39:44 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file12---msg:Class 'Webmozart\Assert' not found
+2020-07-09 23:44:23 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file14---msg:Class 'Webmozart\Assert' not found
+2020-07-09 23:45:51 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file14---msg:Class 'Webmozart\Assert' not found
+2020-07-09 23:45:52 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file14---msg:Class 'Webmozart\Assert' not found
+2020-07-09 23:45:53 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file14---msg:Class 'Webmozart\Assert' not found
+2020-07-09 23:45:54 | ERROR | 127.0.0.1 | /api/hello/hello | GET | file14---msg:Class 'Webmozart\Assert' not found
